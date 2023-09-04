@@ -17,11 +17,11 @@ The simulation runs and check if all the nodes required are running or not
 >> ros2 node list # should output the following
 >> /collision_detector
 >> /diff_drive_controller
->> /gazebo
->> /lidar_scanner
->> /robot_state_publisher
->> /rviz
->> /transform_listener_impl_555e7405eb80
+/gazebo
+lidar_scanner
+/robot_state_publisher
+/rviz
+/transform_listener_impl_555e7405eb80
 
 We can also go to RVIZ2 panel and add a LaserScan visualization by subscribing to "/scan" topic and visualize the LidarScan points and how it avoids them :)
 
