@@ -1,5 +1,5 @@
 # kshoonya-bot
-# This repo contains all the required file for the simulation of the kshoonya bot
+ This repo contains all the required file for the simulation of the kshoonya bot
 # The master branch contains the src folder incase that's the only folder we want to clone or review :)
 
 All the packages are stored inside in the src folder
