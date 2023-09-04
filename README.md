@@ -21,8 +21,8 @@ The simulation runs and check if all the nodes required are running or not
 >> /lidar_scanner <br>
 >> /robot_state_publisher <br>
 >> /rviz <br>
->> /transform_listener_impl_555e7405eb80 <br> </p>
-
+>> /transform_listener_impl_555e7405eb80 <br> 
+</p>
 
 We can also go to RVIZ2 panel and add a LaserScan visualization by subscribing to "/scan" topic and visualize the LidarScan points and how it avoids them :)
 
