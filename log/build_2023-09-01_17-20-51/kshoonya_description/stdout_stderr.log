@@ -1,0 +1,24 @@
+-- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/comrade/kshoonya_ws/build/kshoonya_description
+-- Install configuration: ""
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/my_robot.urdf
+-- Installing: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch
+-- Installing: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.xml
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/package_run_dependencies/kshoonya_description
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/parent_prefix_path/kshoonya_description
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.sh
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.sh
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.dsv
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.bash
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.sh
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.zsh
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.dsv
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.dsv
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/packages/kshoonya_description
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig.cmake
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig-version.cmake
+-- Up-to-date: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.xml

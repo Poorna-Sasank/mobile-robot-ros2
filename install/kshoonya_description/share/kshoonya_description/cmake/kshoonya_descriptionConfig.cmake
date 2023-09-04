@@ -1,0 +1,1 @@
+/home/comrade/kshoonya_ws/build/kshoonya_description/ament_cmake_core/kshoonya_descriptionConfig.cmake

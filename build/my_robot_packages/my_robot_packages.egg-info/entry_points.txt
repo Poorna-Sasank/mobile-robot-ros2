@@ -1,0 +1,4 @@
+[console_scripts]
+collision_detector_node = my_robot_packages.collision_detection_algorithm:main
+vel_pub = my_robot_packages.velocity_publisher:main
+

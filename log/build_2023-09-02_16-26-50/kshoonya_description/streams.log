@@ -1,0 +1,28 @@
+[0.008s] Invoking command in '/home/comrade/kshoonya_ws/build/kshoonya_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --build /home/comrade/kshoonya_ws/build/kshoonya_description -- -j16 -l16
+[0.042s] Invoked command in '/home/comrade/kshoonya_ws/build/kshoonya_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --build /home/comrade/kshoonya_ws/build/kshoonya_description -- -j16 -l16
+[0.126s] Invoking command in '/home/comrade/kshoonya_ws/build/kshoonya_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --install /home/comrade/kshoonya_ws/build/kshoonya_description
+[0.144s] -- Install configuration: ""
+[0.146s] -- Execute custom install script
+[0.147s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/common_properties.xacro
+[0.147s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/mobile_base.xacro
+[0.148s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/my_robot.xacro
+[0.171s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.py
+[0.171s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.xml
+[0.172s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//rviz/kshoonya_config.rviz
+[0.172s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//rviz/kshoonya_mobile_robot_config.rviz
+[0.172s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/package_run_dependencies/kshoonya_description
+[0.173s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/parent_prefix_path/kshoonya_description
+[0.173s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.sh
+[0.174s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.dsv
+[0.174s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.sh
+[0.174s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.dsv
+[0.175s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.bash
+[0.175s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.sh
+[0.176s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.zsh
+[0.176s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.dsv
+[0.176s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.dsv
+[0.199s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/packages/kshoonya_description
+[0.199s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig.cmake
+[0.200s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig-version.cmake
+[0.200s] -- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.xml
+[0.206s] Invoked command in '/home/comrade/kshoonya_ws/build/kshoonya_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --install /home/comrade/kshoonya_ws/build/kshoonya_description

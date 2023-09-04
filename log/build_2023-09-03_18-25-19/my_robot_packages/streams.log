@@ -1,0 +1,17 @@
+[0.479s] Invoking command in '/home/comrade/kshoonya_ws/build/my_robot_packages': PYTHONPATH=/home/comrade/kshoonya_ws/build/my_robot_packages/prefix_override:/home/comrade/kshoonya_ws/install/my_robot_packages/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/comrade/kshoonya_ws/build/my_robot_packages/build --no-deps install_data
+[0.660s] running develop
+[0.778s] running egg_info
+[0.778s] writing my_robot_packages.egg-info/PKG-INFO
+[0.778s] writing dependency_links to my_robot_packages.egg-info/dependency_links.txt
+[0.778s] writing entry points to my_robot_packages.egg-info/entry_points.txt
+[0.778s] writing requirements to my_robot_packages.egg-info/requires.txt
+[0.778s] writing top-level names to my_robot_packages.egg-info/top_level.txt
+[0.780s] reading manifest file 'my_robot_packages.egg-info/SOURCES.txt'
+[0.780s] writing manifest file 'my_robot_packages.egg-info/SOURCES.txt'
+[0.781s] running build_ext
+[0.781s] Creating /home/comrade/kshoonya_ws/install/my_robot_packages/lib/python3.10/site-packages/my-robot-packages.egg-link (link to .)
+[0.782s] Installing vel_pub script to /home/comrade/kshoonya_ws/install/my_robot_packages/lib/my_robot_packages
+[0.782s] 
+[0.782s] Installed /home/comrade/kshoonya_ws/build/my_robot_packages
+[0.782s] running install_data
+[0.802s] Invoked command in '/home/comrade/kshoonya_ws/build/my_robot_packages' returned '0': PYTHONPATH=/home/comrade/kshoonya_ws/build/my_robot_packages/prefix_override:/home/comrade/kshoonya_ws/install/my_robot_packages/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/comrade/kshoonya_ws/build/my_robot_packages/build --no-deps install_data

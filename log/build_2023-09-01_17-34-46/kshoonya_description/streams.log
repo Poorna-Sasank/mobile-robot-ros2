@@ -1,0 +1,31 @@
+[0.008s] Invoking command in '/home/comrade/kshoonya_ws/build/kshoonya_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake /home/comrade/kshoonya_ws/src/kshoonya_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/comrade/kshoonya_ws/install/kshoonya_description
+[0.015s] -- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+[0.098s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.140s] -- Configuring done
+[0.141s] -- Generating done
+[0.142s] -- Build files have been written to: /home/comrade/kshoonya_ws/build/kshoonya_description
+[0.145s] Invoked command in '/home/comrade/kshoonya_ws/build/kshoonya_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake /home/comrade/kshoonya_ws/src/kshoonya_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/comrade/kshoonya_ws/install/kshoonya_description
+[0.145s] Invoking command in '/home/comrade/kshoonya_ws/build/kshoonya_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --build /home/comrade/kshoonya_ws/build/kshoonya_description -- -j16 -l16
+[0.166s] Invoked command in '/home/comrade/kshoonya_ws/build/kshoonya_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --build /home/comrade/kshoonya_ws/build/kshoonya_description -- -j16 -l16
+[0.201s] Invoking command in '/home/comrade/kshoonya_ws/build/kshoonya_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --install /home/comrade/kshoonya_ws/build/kshoonya_description
+[0.209s] -- Install configuration: ""
+[0.210s] -- Execute custom install script
+[0.210s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/my_robot.urdf
+[0.221s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.py
+[0.228s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.xml
+[0.236s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/package_run_dependencies/kshoonya_description
+[0.244s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/parent_prefix_path/kshoonya_description
+[0.252s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.sh
+[0.259s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.dsv
+[0.266s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.sh
+[0.273s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.dsv
+[0.282s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.bash
+[0.287s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.sh
+[0.291s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.zsh
+[0.296s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.dsv
+[0.300s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.dsv
+[0.305s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/packages/kshoonya_description
+[0.309s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig.cmake
+[0.314s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig-version.cmake
+[0.318s] -- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.xml
+[0.325s] Invoked command in '/home/comrade/kshoonya_ws/build/kshoonya_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/comrade/ros2_ws/install/py_pkg:/opt/ros/iron /usr/bin/cmake --install /home/comrade/kshoonya_ws/build/kshoonya_description

@@ -1,0 +1,27 @@
+-- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/comrade/kshoonya_ws/build/kshoonya_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//urdf/my_robot.urdf
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.py
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//launch/display.launch.xml
+-- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//rviz/kshoonya_config.rviz
+-- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description//rviz/kshoonya_mobile_robot_config.rviz
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/package_run_dependencies/kshoonya_description
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/parent_prefix_path/kshoonya_description
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.sh
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/environment/path.dsv
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.bash
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.sh
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.zsh
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/local_setup.dsv
+-- Symlinking: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.dsv
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/ament_index/resource_index/packages/kshoonya_description
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig.cmake
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/cmake/kshoonya_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/comrade/kshoonya_ws/install/kshoonya_description/share/kshoonya_description/package.xml
