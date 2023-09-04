@@ -36,5 +36,5 @@ We can also go to RVIZ2 panel and add a LaserScan visualization by subscribing t
    https://en.wikipedia.org/wiki/List_of_moments_of_inertia#List_of_3D_inertia_tensors
    https://wiki.ros.org/urdf/Tutorials/Adding%20Physical%20and%20Collision%20Properties%20to%20a%20URDF%20Model
    
-### gazebo ros2 differential plugin
+### gazebo ros2 differential drive plugin
    https://github.com/ros-simulation/gazebo_ros_pkgs/blob/ros2/gazebo_plugins/include/gazebo_plugins/gazebo_ros_diff_drive.hpp
