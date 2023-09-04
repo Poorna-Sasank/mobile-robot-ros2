@@ -30,7 +30,6 @@ We can also go to RVIZ2 panel and add a LaserScan visualization by subscribing t
    https://classic.gazebosim.org/tutorials?cat=guided_i&tut=guided_i1
    
 ### For obstacle detection approach
-   TurtleBot3 github page
    https://github.com/ROBOTIS-GIT/turtlebot3/blob/ros2/turtlebot3_example/turtlebot3_example/turtlebot3_obstacle_detection/turtlebot3_obstacle_detection.py
 
 ### For URDF creation
