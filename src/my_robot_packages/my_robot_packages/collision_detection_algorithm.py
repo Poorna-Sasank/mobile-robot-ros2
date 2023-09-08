@@ -27,7 +27,7 @@ class CollisionAvoider(Node):
             move.angular.z = 0.0
         else:
             move.linear.x = 0.0
-            move.angular.z = 3.5
+            move.angular.z = 3.5 #change this to control the avoidance speed
             self.get_logger().info("Obstacles are detected nearby. Changing course!!!")
         
         # else:
