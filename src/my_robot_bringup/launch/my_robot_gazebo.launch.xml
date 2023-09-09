@@ -16,6 +16,7 @@
     <node pkg="rviz2" exec="rviz2" output="screen" args="-d $(var rviz_config_path)" />
 
     <!-- <node pkg="my_robot_packages" exec="vel_pub" /> -->
-    <node pkg="my_robot_packages" exec="collision_detector_node" />
+    <!-- <node pkg="my_robot_packages" exec="collision_detector_node" /> -->
+    <node pkg="my_robot_packages" exec="obstacle_detector" />
 
 </launch>
