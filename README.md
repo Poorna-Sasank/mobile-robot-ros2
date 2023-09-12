@@ -9,7 +9,8 @@ All the packages are stored inside in the src folder
 #
 * To run the simulation just clone the repo to your workspace and use 
 >> colcon build --symlink-install
-
+* source the workspace
+  >> source ~/.bashrc
 * After that just run the command 
 >> ros2 launch my_robot_bringup my_robot_gazebo.launch.xml
 
