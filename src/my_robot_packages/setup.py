@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             "vel_pub = my_robot_packages.velocity_publisher:main",
-            "collision_detector_node = my_robot_packages.collision_detection_algorithm:main"
+            "collision_detector_node = my_robot_packages.collision_detection_algorithm:main",
+            "obstacle_detector = my_robot_packages.obstacle_detector:main"
         ],
     },
 )
